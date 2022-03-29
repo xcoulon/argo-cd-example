@@ -1,0 +1,5 @@
+This repository is used to learn Argo CD.
+
+== Dependencies
+
+The demo is built with http://gohugo.io[Hugo] and uses the example site from https://github.com/zerostaticthemes/hugo-winston-theme/tree/master/exampleSite[Hugo Winston Theme] by http://www.zerostatic.io/[zerosatic]
