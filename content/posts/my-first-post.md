@@ -1,7 +1,7 @@
 ---
 title: "Quote Of The Day"
 date: 2022-03-31T16:00:00+02:00
-draft: true
+# draft: true
 ---
 
 You don't start out writing good stuff.
